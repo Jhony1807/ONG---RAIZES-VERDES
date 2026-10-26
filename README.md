@@ -1,4 +1,4 @@
-# ONG---RAIZES-VERDES
+# ONG RAIZES-VERDES
 TRABALHO ACADÊMICO - DESENVOLVIMENTO FRONT END | ONG 
 
 # Projeto Integrador: Site Institucional e Interativo de ONG
