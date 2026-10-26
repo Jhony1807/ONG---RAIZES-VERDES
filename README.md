@@ -24,6 +24,6 @@ Estudantes e professores de escolas públicas — o público da educação ambie
 Jovens e adultos interessados em voluntariado — quem quer participar dos plantios.
 
 ## ⚙️ Funcionalidades em JavaScript
-O comportamento dinâmico do site foi implementado utilizando arquivos JavaScript externos, contemplando exatamente duas funcionalidades obrigatórias baseadas em eventos (`addEventListener`), funções e manipulação simples do DOM
+O comportamento dinâmico do site foi implementado utilizando arquivos JavaScript externos, contemplando exatamente duas funcionalidades obrigatórias baseadas em eventos (`addEventListener`), funções e manipulação simples do DOM.
 
 
