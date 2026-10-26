@@ -21,5 +21,9 @@ Planejar, desenvolver, testar e apresentar um site responsivo e interativo para 
 * **Causa Defendida:** O Instituto Raízes Verdes atua transformando bairros com pouca vegetação em lugares mais frescos, saudáveis e bonitos, plantando espécies nativas junto com moradores, escolas e voluntários. Esse tema aparece no destaque da página inicial, nos três projetos (Viveiro, Escola Verde e Rio Vivo) e nas orientações de voluntariado.
 * **Público-Alvo:** Moradores de bairros com pouca arborização — as comunidades que vivem nas áreas mais quentes e sem árvores
 Estudantes e professores de escolas públicas — o público da educação ambiental
-Jovens e adultos interessados em voluntariado — quem quer participar dos plantios
+Jovens e adultos interessados em voluntariado — quem quer participar dos plantios.
+
+## ⚙️ Funcionalidades em JavaScript
+O comportamento dinâmico do site foi implementado utilizando arquivos JavaScript externos, contemplando exatamente duas funcionalidades obrigatórias baseadas em eventos (`addEventListener`), funções e manipulação simples do DOM.
+
 
