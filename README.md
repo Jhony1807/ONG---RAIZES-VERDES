@@ -10,6 +10,7 @@ Protótipo funcional de um site institucional e interativo desenvolvido como par
 ## 👥 Integrantes da Equipe
 * <h1>Jonata Alves Borsari</h1>  
 * <h1>Joao Frazon Zanon </h1>
+<p>Desenvolvido por <a href="https://www.linkedin.com/in/jonata-alves-borsari" target="_blank">Jonata Alves Borsari</a> e <a href="https://www.linkedin.com/in/jo%C3%A3o-fraz%C3%A3o-zanon/" target="_blank">Joao Frazon Zanon</a></p>
 
 
 ---
