@@ -26,4 +26,9 @@ Jovens e adultos interessados em voluntariado — quem quer participar dos plant
 ## ⚙️ Funcionalidades em JavaScript
 O comportamento dinâmico do site foi implementado utilizando arquivos JavaScript externos, contemplando exatamente duas funcionalidades obrigatórias baseadas em eventos (`addEventListener`), funções e manipulação simples do DOM.
 
+1. **Validação do Formulário (`contato.html`):**
+   * Impede o comportamento padrão de envio/recarregamento com `preventDefault()`.
+   * Lê os valores dos quatro campos utilizando `value` e remove espaços em branco indesejados com `trim()`.
+   * Aplica validações lógicas: nome com no mínimo 3 caracteres, e-mail preenchido com formato básico válido, assunto preenchido e mensagem com no mínimo 10 caracteres.
+   * Exibe mensagens de erro claras no HTML em caso de falhas ou uma confirmação simulada de sucesso quando todos os dados estiverem corretos.
 
